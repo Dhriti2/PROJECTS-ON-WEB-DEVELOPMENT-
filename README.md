@@ -6,7 +6,7 @@ During this project on creating a functional registration form, I learned the fo
 3. Implemented JavaScript validation to check form fields before submission.
 4. Used PHP for handling form submissions & connect to a MySQL Database.
 
-*PROJECT 2 Creating an Invitation Card* 
+*PROJECT 2 Creating an Invitation Card -* 
 This project is a simple HTML & CSS-based invitation webpage for the "Annual Tech Conference 2025". It showcases a clean design with event details and an RSVP button:
 1. Used HTML5 for page structure and content.
 2. Used CSS3 for styling and layout.
